@@ -8,7 +8,7 @@ This application uses Machine Learning to predict required product quantities ba
 * **Predictive Modeling:** Utilizes the **Random Forest Regressor** for robust forecasting.
 
 ## 🎥 Project Demo
-* **Live App:** [Click here to run the app](حط_رابط_streamlit_هنا)
+* **Live App:** [Click here to run the app](https://philopateer-inventory-ai.streamlit.app/)
 * **Video Demo:** ارفع الفيديو هنا أو حط لينك اليوتيوب.
 
 ## 🛠 Tech Stack
